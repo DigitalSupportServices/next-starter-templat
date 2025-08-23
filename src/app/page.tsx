@@ -32,7 +32,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read our docs
+            Resources
           </a>
         </div>
       </main>
@@ -80,7 +80,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Go to nextjs.org →
+       Blogging →
         </a>
       </footer>
     </div>
